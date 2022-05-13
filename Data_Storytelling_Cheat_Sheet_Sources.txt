@@ -1,0 +1,45 @@
+Icons:
+
+Page 1 & 2 - Header
+Book story - <a href="https://www.flaticon.com/free-icons/story" title="story icons">Story icons created by Freepik - Flaticon</a>
+Bar chart - <a href="https://www.flaticon.com/free-icons/bar-chart" title="bar chart icons">Bar chart icons created by Freepik - Flaticon</a>
+Reading book - <a href="https://www.flaticon.com/free-icons/reading" title="reading icons">Reading icons created by mangsaabguru - Flaticon</a>
+
+Page 1 - Facts
+Stars yellow - <a href="https://www.flaticon.com/free-icons/star" title="star icons">Star icons created by flatart_icons - Flaticon</a>
+Brain bulb - <a href="https://www.flaticon.com/free-icons/brain" title="brain icons">Brain icons created by DinosoftLabs - Flaticon</a>
+
+Page 1 - Structure
+Bridge - <a href="https://www.flaticon.com/free-icons/bridge" title="bridge icons">Bridge icons created by Freepik - Flaticon</a>
+Arrow - <a href="https://www.flaticon.com/free-icons/arrow" title="arrow icons">Arrow icons created by Freepik - Flaticon</a>
+
+Page 1 - Process
+Business need - <a href="https://www.flaticon.com/free-icons/demand" title="demand icons">Demand icons created by Parzival’ 1997 - Flaticon</a>
+Know your stakeholder - <a href="https://www.flaticon.com/free-icons/teamwork" title="teamwork icons">Teamwork icons created by Becris - Flaticon</a>
+Key message - <a href="https://www.flaticon.com/free-icons/message" title="message icons">Message icons created by Smashicons - Flaticon</a>
+Storybook - <a href="https://www.flaticon.com/free-icons/story" title="story icons">Story icons created by Freepik - Flaticon</a>
+Perspective - <a href="https://www.flaticon.com/free-icons/perspective" title="perspective icons">Perspective icons created by Darius Dan - Flaticon</a>
+Reminder - <a href="https://www.flaticon.com/free-icons/remind" title="remind icons">Remind icons created by Mayor Icons - Flaticon</a>
+Visualization - <a href="https://www.flaticon.com/free-icons/remind" title="remind icons">Remind icons created by Mayor Icons - Flaticon</a>
+Questions - <a href="https://www.flaticon.com/free-icons/question" title="question icons">Question icons created by Freepik - Flaticon</a>
+Feedback - <a href="https://www.flaticon.com/free-icons/feedback" title="feedback icons">Feedback icons created by Freepik - Flaticon</a>
+Up tp date - <a href="https://www.flaticon.com/free-icons/update" title="update icons">Update icons created by Freepik - Flaticon</a>
+
+Page 2 - Parties
+Art - <a href="https://www.flaticon.com/free-icons/art-deco" title="art decó icons">Art decó icons created by Freepik - Flaticon</a>
+Science - <a href="https://www.flaticon.com/free-icons/science" title="science icons">Science icons created by Good Ware - Flaticon</a>
+Support - <a href="https://www.flaticon.com/free-icons/sport-team" title="sport team icons">Sport team icons created by Freepik - Flaticon</a>
+
+Page 2 - Checklist
+Hand - <a href="https://www.flaticon.com/free-icons/hello" title="hello icons">Hello icons created by Vitaly Gorbachev - Flaticon</a>
+
+Page 2 - Get inspired
+Head - <a href="https://www.flaticon.com/free-icons/creativity" title="creativity icons">Creativity icons created by photo3idea_studio - Flaticon</a>
+
+
+References:
+
+Dykes, B. (2016). Data Storytelling: The Essential Data Science Skill Everyone Needs. Forbes.
+Dykes, B. (2019). Effective Data Storytelling. John Wiley & Sons, Inc. 
+Knaflic, C. N. (2015). Storytelling with data: A data visualization guide for business professionals. John Wiley & Sons, Inc. 
+Feigenbaum, A., & Alamalhodaei, A. (2020). The data storytelling workbook. Routledge. 
