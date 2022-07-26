@@ -2,7 +2,7 @@
 
 Welcome!
 
-I am Lisa, a student of the "Management Center Innsbruck" in Tyrol, Austria studying "Management, Communication & IT".
+I am Lisa, an alumna of the study program "Management, Communication & IT" at the "Management Center Innsbruck" in Tyrol, Austria.
 The data storytelling cheat sheet is the result of my Bachelor thesis with the working title
 "Data storytelling as a method to communicate big data to internal stakeholders".
 
